@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": " supercoolgamers.aternos.me:63299",
     "port": 27586,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
